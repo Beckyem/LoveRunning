@@ -27,7 +27,7 @@ h1, h2, h3 {
 
 /* This is used to hide headings instead of removing them, as
     having the heading title is good SEO stuff */
-.hidden-headings {
+.hidden-heading {
     display: none;
 }
 
