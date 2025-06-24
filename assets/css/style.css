@@ -27,7 +27,7 @@ h1, h2, h3 {
 
 /* This is used to hide headings instead of removing them, as
     having the heading title is good SEO stuff */
-. {
+.hidden-headings {
     display: none;
 }
 
@@ -258,7 +258,7 @@ main {
 
 #social-networks i {
     font-size: 160%;
-    padding 5%;
+    padding: 5%;
     color: #3a3a3a;
 }
 
